@@ -18,8 +18,8 @@ body {
 .header h1 {
     display: inline-block;
     font-size: 48px;
-    color: #d9dcd6;
 }
+    
 
 
 
@@ -38,6 +38,7 @@ body {
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
+    
 }
 
 a {
